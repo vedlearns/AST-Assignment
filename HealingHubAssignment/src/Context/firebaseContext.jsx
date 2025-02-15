@@ -26,7 +26,7 @@ export const FirebaseProvider = ({ children }) => {
   .catch((err)=>console.log(err))
 
   const signInUsingGoogle=()=>signInWithPopup(firebaseAuth,googleProvider)
-  const [userSignIn, setUserSignIn] = useState(null);
+  const [userSignIn, setUserSignIn] = useState("signin");
   return (
     <firebaseContext.Provider
       value={{
