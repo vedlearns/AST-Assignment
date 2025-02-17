@@ -2,7 +2,7 @@
 
 📌 About the Project
 
-The Nearby Hospitals Finder is a React-based web application that helps users locate hospitals near their current location. It utilizes the Google Maps API, Google Places API, and Geolocation API to display hospitals on an interactive map with detailed information like address, contact details, and business status along with that it uses Firebase Api for google authentication and user Sign In.
+The Nearby Hospitals Locator is a Vite React-based web application that helps users locate hospitals near their current location. It utilizes the Google Maps API, Google Places API, and Geolocation API to display hospitals on an interactive map with detailed information like address, contact details, and business status along with that it uses Firebase Api for google authentication and user Sign In.
 
 🚀 Features
 
